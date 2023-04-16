@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zwq-qianyu.github.io/all-nav/about/</loc>
+    <loc>http://nav.runtofuture.cn/about/</loc>
     <lastmod>2020-07-28T19:27:08+08:00</lastmod>
   </url><url>
-    <loc>https://zwq-qianyu.github.io/all-nav/categories/</loc>
+    <loc>http://nav.runtofuture.cn/categories/</loc>
   </url><url>
-    <loc>https://zwq-qianyu.github.io/all-nav/</loc>
+    <loc>http://nav.runtofuture.cn/</loc>
   </url><url>
-    <loc>https://zwq-qianyu.github.io/all-nav/tags/</loc>
+    <loc>http://nav.runtofuture.cn/tags/</loc>
   </url>
 </urlset>
