@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://zwq-qianyu.github.io/qianyu-all-nav/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zwq-qianyu.github.io/qianyu-all-nav/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于网站</title>
-      <link>http://example.org/about/</link>
+      <link>https://zwq-qianyu.github.io/qianyu-all-nav/about/</link>
       <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://zwq-qianyu.github.io/qianyu-all-nav/about/</guid>
       <description>这是 Hugo 版 WebStack 主题 本项目是基于纯静态的网址导航网站 webstack.cc 制作的 Hugo 主题，其中部分代码参考了以下几个开源项目：
 https://github.com/liutongxu/liutongxu.github.io https://github.com/iplaycode/webstack-hugo 主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
