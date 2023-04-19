@@ -323,9 +323,19 @@
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                         
 			<li >
-				<a href="./">
+				<a href="/">
                                     <i class="fa fa-home fa-lg mr-2"></i>
                                     <span>首页</span>
+                                </a>
+				<ul class="sub-menu">
+				
+				</ul>
+			    </li>
+			
+			<li >
+				<a href="/ai">
+                                    <i class="fa fa-magic fa-lg mr-2"></i>
+                                    <span>AI</span>
                                 </a>
 				<ul class="sub-menu">
 				
@@ -6785,11 +6795,11 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
     }
 })();
 
-$("#search-bg").css("background-image", "url(assets\/images\/bg-dna.jpg)");   
+$("#search-bg").css("background-image", "url(\/assets\/images\/bg-dna.jpg)");   
 function switchNightMode(){
     var night = document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") || '0';
     if(night == '0'){
-	$("#search-bg").css("background-image", "url(assets\/images\/bg-dna.jpg)");
+	$("#search-bg").css("background-image", "url(\/assets\/images\/bg-dna.jpg)");
         document.body.classList.remove('io-grey-mode');
         document.body.classList.add('io-black-mode');
         document.cookie = "night=1;path=/"
@@ -6798,7 +6808,7 @@ function switchNightMode(){
         $(".mode-ico").removeClass("icon-night");
         $(".mode-ico").addClass("icon-light");
     }else{
-	$("#search-bg").css("background-image", "url(assets\/images\/bg-dna.jpg)")
+	$("#search-bg").css("background-image", "url(\/assets\/images\/bg-dna.jpg)")
         document.body.classList.remove('io-black-mode');
         document.body.classList.add('io-grey-mode');
         document.cookie = "night=0;path=/"
